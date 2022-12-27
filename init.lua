@@ -1,0 +1,7 @@
+require('setting')
+require('plugin')
+require('keymap')
+require('plugins/kanagawa')
+require('plugins/telescope')
+require('plugins/treesitter')
+require('plugins/lsp')
